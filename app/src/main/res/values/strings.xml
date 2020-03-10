@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ALU SCHOOL APP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="do_hard_things">DO HARD THINGS</string>
+    <string name="login">LOGIN</string>
+    <string name="Signup">Sign Up</string>
+
+</resources>
